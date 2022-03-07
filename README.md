@@ -7,5 +7,11 @@ Just my personal rice of arco linux dwm
 
 
 icons: ePapirus-Dark
+
+
 widget: dracula
+
+
 cursor: breeze
+
+
