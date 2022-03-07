@@ -1,0 +1,19 @@
+"^discord$"
+  None, Up, Button4, 4
+  None, Down, Button5, 4
+
+"^spotify$"
+  None, Up, Button4, 4
+  None, Down, Button5, 4
+
+"^brave-browser$"
+  None, Up, Button4, 4
+  None, Down, Button5, 4
+
+"^vivaldi-stable$"
+  None, Up, Button4, 4 
+  None, Down, Button5, 4 
+
+"^element$"
+  None, Up, Button4, 3
+  None, Down, Button5, 3
