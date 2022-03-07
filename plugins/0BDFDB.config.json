@@ -1,0 +1,22 @@
+{
+	"changeLogs": {
+		"BDFDB": "2.1.9",
+		"BetterNsfwTag": "1.2.7",
+		"FriendNotifications": "1.8.1",
+		"ImageUtilities": "4.6.3",
+		"ShowHiddenChannels": "3.0.6",
+		"SpotifyControls": "1.2.4"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	},
+	"hashes": {
+		"0BDFDB.data.json": "f6f1063b93385058e09ea98e1920cc3efa3fe95e",
+		"0BDFDB.raw.css": "e4f850b97d5093dae560f81c5b1ea0ef7b446642"
+	}
+}

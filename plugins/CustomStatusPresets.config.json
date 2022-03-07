@@ -1,0 +1,40 @@
+{
+	"presets": {
+		"134362395710576": {
+			"pos": 3,
+			"clearAfter": "TODAY",
+			"status": "dnd",
+			"text": "Busy"
+		},
+		"344618026365222": {
+			"pos": 0,
+			"clearAfter": "TODAY",
+			"status": "dnd",
+			"text": "Fuck off"
+		},
+		"4547210910726898": {
+			"pos": 4,
+			"clearAfter": "TODAY",
+			"status": "online",
+			"text": "dm if you wanna play sm"
+		},
+		"5498233201930798": {
+			"pos": 1,
+			"clearAfter": "TODAY",
+			"status": "online",
+			"text": "Bored someone dm me"
+		},
+		"5643846754367026": {
+			"pos": 5,
+			"clearAfter": "TODAY",
+			"status": "online",
+			"text": "hvh anyone?"
+		},
+		"7493960175101706": {
+			"pos": 2,
+			"clearAfter": "TODAY",
+			"status": "online",
+			"text": "I am down for anything rn"
+		}
+	}
+}
